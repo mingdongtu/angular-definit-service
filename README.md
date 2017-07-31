@@ -1,5 +1,5 @@
 # angular-definit-service
-*实现从1到任意整数的加和(https://mingdongtu.github.io/angular-definit-service/definition.html)
+[实现从1到任意整数的加和](https://mingdongtu.github.io/angular-definit-service/definition.html)
 
 AngularJs实现自定义服务一般方法总结：
 
