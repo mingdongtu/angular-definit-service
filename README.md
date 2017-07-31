@@ -1,4 +1,6 @@
 # angular-definit-service
+*实现从1到任意整数的加和(https://mingdongtu.github.io/angular-definit-service/definition.html)
+
 AngularJs实现自定义服务一般方法总结：
 
 【1】、首先利用app对象调用service（）方法且传入两个参数，一个是要自定义的服务，另一个是回调函数；
